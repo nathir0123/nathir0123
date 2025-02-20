@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hello, I'm Nadhir Kraiem!
 
-<!--
-**nathir0123/nathir0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring dev/devops engineer | 💻 Learning Go from Scratch | 🌍 Based in Tunisia
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Freshly starting my journey with Golang, focusing on backend development and DevOps.
+
+💼 Previously built an eCommerce application using Java Spring Boot and Angular.
+
+🖨️ Currently working on a Print Press Project involving document handling and automation.
+
+🌱 Exploring Go concurrency, backend services, and cloud technologies.
+
+🎯 Interested in building scalable applications, automation, and infrastructure as code.
+
+🛠️ Technologies & Tools
+
+Currently Learning: 
+
+Previously Used: 
+
+
+
+💼 Projects
+
+🛍️ eCommerce Platform: Built with Java Spring Boot and Angular.
+
+🖨️ Print Press Project: Developing document handling and printing solutions.
+
+📊 GitHub Stats
+
+
+Thank you for visiting my profile! 😊
+
