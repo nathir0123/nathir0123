@@ -26,9 +26,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikr&show_icons=true&theme=radical">
-</p>
 
 <h2 >📫 Let's Connect!</h2>
 
